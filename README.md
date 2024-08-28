@@ -1,8 +1,15 @@
-# React + Vite
+## overview
+full stack User Registration project build with React.js for frontend and node js, express js for backend development
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## features
+Name: Minimum 2 characters
+Age: Number between 0 and 120
+   Date of Birth: Must be a valid date
+   Password: Minimum 10 characters, alphanumeric with at least one digit
+Gender: Dropdown with options (Male, Female, Other) retrieved from an API
+   About: Text field with a character limit of 5000
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   ## Getting started
+   Frontend:React.js
+   Backend:Node.js
+   Database: Mongodb
